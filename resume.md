@@ -64,7 +64,7 @@ Experienced engineer with 10+ years in startups and big tech, specializing in sc
 
 ## **Testimonials**
 
-*Snippets here, see originals on profile*  
+*Snippets here, see originals on [profile](https://linkedin.com/in/graydot)*  
 
 - *“Jeba’s ability to think beyond immediate use cases and influence product strategy is remarkable.”* - Nihit P, Sr. Manager, LinkedIn  
 - *“He is detail-oriented and has tremendous technical depth. Instrumental in my career growth.”* - Louie J, Staff Engineer, LinkedIn  
