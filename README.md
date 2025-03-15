@@ -13,4 +13,4 @@ Interesting github repos:
 * [Rootly AI prototype to detecte traffic anomalies](https://github.com/Rootly-AI-Lab/EventOrOutage)
 * [PostMortem Visualizer to visualize components affected as well as timeline](https://github.com/Rootly-AI-Lab/IncidentDiagram) - For making your postmortems easy to understand
 
-[Resume]()
+[Resume](resume.md)
