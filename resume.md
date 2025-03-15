@@ -71,6 +71,3 @@ Experienced engineer with 10+ years in startups and big tech, specializing in sc
 - *“Jeba actively listens, engages in respectful questioning, and synthesizes diverse ideas.”* - Chenkai X, Sr. Staff Engineer, LinkedIn  
 - *“He led the team to create SlideShare’s iOS app from scratch, delivering a polished, high-quality product.”* - Francisco M, Manager, LinkedIn  
 
----
-
-This version streamlines the content while keeping all key details, ensuring it fits within **2-3 pages**. Let me know if you'd like any final adjustments! 🚀  
