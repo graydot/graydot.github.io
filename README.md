@@ -16,5 +16,5 @@ Interesting github repos:
 [Resume](resume.md)
 
 Blog Posts - Lessons over the time
-* [3/26 - Langfuse and celery](./debugging-langfuse-celery-issue.md )
+* [3/26 - Langfuse and celery](./debugging-langfuse-celery-issue)
 
