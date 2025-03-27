@@ -14,3 +14,7 @@ Interesting github repos:
 * [PostMortem Visualizer to visualize components affected as well as timeline](https://github.com/Rootly-AI-Lab/IncidentDiagram) - For making your postmortems easy to understand
 
 [Resume](resume.md)
+
+Blog Posts - Lessons over the time
+* [3/26 - Langfuse and celery](https://github.com/graydot/graydot.github.io/blob/main/debugging-langfuse-celery-issue.md )
+
