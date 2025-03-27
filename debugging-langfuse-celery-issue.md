@@ -5,6 +5,7 @@ summary: "A debugging session involving Langfuse and Celery, highlighting the im
 tags: [debugging, langfuse, celery, python, observability, sre]
 reading_time: 2 minutes
 ---
+
 # Debugging Notes – 3/26
 
 Today's debugging session was a reminder of how important it is to understand your runtime environment.
