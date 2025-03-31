@@ -24,7 +24,7 @@ Experienced engineer with 10+ years in startups and big tech, specializing in sc
 ### **AI Lab Fellow**  
 **[Rootly AI Labs](https://labs.rootly.ai)** | 2025 – Present  
 
-- Develop AI prototypes using **Langgraph, Smolagents, Langfuse, Gentrace, Ollama** with cutting-edge LLMs.  
+- As an engineer, I develop AI prototypes using **Langgraph, Smolagents, Langfuse, Gentrace, Ollama** with cutting-edge LLMs.  
 - Key projects: [IncidentDiagram](https://github.com/Rootly-AI-Labs/IncidentDiagram), [EventOrOutage](https://github.com/Rootly-AI-Labs/EventOrOutage), [Rootly MCP Server](https://github.com/Rootly-AI-Labs/RootlyIncidentMCPServer).  
 
 ### **Manager & Senior Manager**  
