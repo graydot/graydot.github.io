@@ -26,4 +26,4 @@ One of the more frustrating challenges I ran into was getting the LLM to return 
 #### 👏 The Team Made It Happen
 At the end of the day, this wasn’t just me—my team worked their butts off too. The last two weeks were intense, but seeing everything come together in the final product made it all worth it.
 
-🎥 Check out the demo by our Head of Developer Relations at the [recent AI panel](https://lu.ma/9wi116nk) [here](insert-url-here). This is a monthly event so drop by meet the crew, I will be there too. 
+🎥 Check out the demo by [Sylvain](https://www.linkedin.com/in/sylvainkalache/), our Head of Developer Relations at the [recent AI panel](https://lu.ma/9wi116nk) [here](insert-url-here). This is a monthly event so drop by meet the crew, I will be there too. 
