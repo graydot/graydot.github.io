@@ -17,5 +17,6 @@ Interesting github repos:
 
 Blog Posts - Lessons over the time
 * [3/26 - Langfuse and celery](./debugging-langfuse-celery-issue)
-* [4/6 = Weekend LLM lessons](./weekend-llm-warrior)
+* [4/6 - Weekend LLM lessons](./weekend-llm-warrior)
+* [4/25 - AI SRE v-alpha lessons](./ai-sre-alpha)
 
