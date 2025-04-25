@@ -1,4 +1,4 @@
-### 🚀 What I’ve Learned Over the Past Few Days While Developing an AI SRE Agent
+### 🚀 What I’ve Learned Over the Past Few Weeks While Developing an AI SRE Agent
 
 The past few weeks ande months working on the AI SRE Agent have been a whirlwind of new discoveries, and I’ve picked up quite a few valuable lessons along the way. Here’s a quick rundown of what worked, what didn’t, and some cool things I learned.
 
