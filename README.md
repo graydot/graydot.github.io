@@ -1,5 +1,6 @@
 I like building products and learning new tech. I have been a system adminstrator, a programmer and a manager. 
 
+[Meet me](https://calendly.com/jebasingh-emmanuel/30min)
 
 [Github](https://github.com/graydot)
 
