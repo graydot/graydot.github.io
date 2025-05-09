@@ -1,6 +1,6 @@
 **Jeba Singh Emmanuel**  
 Ph: 510-365-8269  
-📧 [jeba@graydot.ai](mailto:jeba@graydot.ai) | 🔗 [LinkedIn](https://linkedin.com/in/graydot) | 🖥️ [GitHub](https://github.com/graydot)  
+📧 [jsemmanuel42@gmail.com](mailto:jsemmanuel42@gmail.com) | 🔗 [LinkedIn](https://linkedin.com/in/graydot) | 🖥️ [GitHub](https://github.com/graydot)  
 
 ---
 
